@@ -1,0 +1,5 @@
+adapter-transformers
+transformers == 4.12.5
+datasets
+pytorch-lightning == 1.5.10
+torch == 1.7.0
